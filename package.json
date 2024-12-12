@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-copy",
+  "version": "1.0.0",
+  "description": "learning",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuRuParmar/react-code.git"
+  },
+  "author": "puru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuRuParmar/react-code/issues"
+  },
+  "homepage": "https://github.com/PuRuParmar/react-code#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
